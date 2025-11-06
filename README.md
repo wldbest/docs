@@ -1,6 +1,6 @@
-# Mintlify Starter Kit
+# Mintlify 스타터 키트
 
-Use the starter kit to get your docs deployed and ready to customize.
+여기에 이렇게 정보를 보여줍니다.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
@@ -10,7 +10,14 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+[**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
+
+### **<Tooltip tip="">표 사용 테스트</Tooltip>**
+
+| 표 제목  | 제목 2                 | 제목 3 | 222 | 111                  |
+| ----- | -------------------- | ---: | --- | -------------------- |
+| `111` | <u>aa</u>            | _bb_ |     | CCC <sup>abcde</sup> |
+| 222   | [내용 들어감](ozvoca.com) | _dd_ |     | \> aaaa              |
 
 ## Development
 
@@ -23,7 +30,7 @@ npm i -g mint
 Run the following command at the root of your documentation, where your `docs.json` is located:
 
 ```
-mint dev
+mint dev 라고 입력
 ```
 
 View your local preview at `http://localhost:3000`.
@@ -40,4 +47,5 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 - If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
 
 ### Resources
+
 - [Mintlify documentation](https://mintlify.com/docs)
