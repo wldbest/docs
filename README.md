@@ -12,7 +12,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 
 [**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
 
-### **<Tooltip tip="">표 사용 테스트</Tooltip>**
+### **표 사용 테스트**
 
 | 표 제목  | 제목 2                 | 제목 3 | 222 | 111                  |
 | ----- | -------------------- | ---: | --- | -------------------- |
